@@ -1,0 +1,1 @@
+let operator = prompt('Quel operation souhaitez vous effectuer ?1 addition');
